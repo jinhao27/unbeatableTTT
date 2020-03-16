@@ -8,8 +8,8 @@ The first time I heard about game theory as something that could be studied at a
 Video demo:
  - https://www.youtube.com/watch?v=crAAsNN1kzI&feature=youtu.be
  
-Screenshots:
-   ![eg1](https://i.ibb.co/Pw0ZJd4/eg1.png)
+ - Screenshots:
+ - ![eg1](https://i.ibb.co/Pw0ZJd4/eg1.png)
  - ![eg2](https://i.ibb.co/68RShRw/eg2.png)
  - ![eg3](https://i.ibb.co/G24GN3f/eg3.png)
  - ![eg4](https://i.ibb.co/d7yXrkW/eg4.png)
