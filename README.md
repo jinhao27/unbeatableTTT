@@ -15,3 +15,13 @@ Video demo:
  ![eg2](https://i.ibb.co/68RShRw/eg2.png)
  ![eg3](https://i.ibb.co/G24GN3f/eg3.png)
  ![eg4](https://i.ibb.co/d7yXrkW/eg4.png)
+ 
+ ## Tech used
+ Built with: 
+  - HTML/CSS
+  - JavaScript
+ 
+ ## How to use:
+ Just clone the repository and run the html file in your browser :)
+
+
